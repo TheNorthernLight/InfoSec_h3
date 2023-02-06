@@ -1,5 +1,5 @@
 # InfoSec_h3
-## Attack
+# Attack
 
 ### Chapter 4: Mapping the Adversary
 #### Introduction
@@ -64,6 +64,42 @@ Then we can plan and execute remediation. With the visibility provided by Threat
 
 Finally, monitoring the progress, where Users can track the progress of their remediation efforts and receive notifications when new threats emerge that require action. This helps to keep the organization's security posture up-to-date and aligned with the latest threats.
 
+
+
+### MITRE ATT&CK
+
+#### Define tactic and give an example
+
+One tactic in the MITRE ATT&CK framework is "Defense Evasion". This tactic encompasses techniques used by attackers to evade detection by the victim's security controls and hide their activities. Some techniques within the Defense Evasion tactic include:
+
+* Disabling or stopping security services
+* Hiding files or processes
+* Modifying system level permissions
+* Masking command and control traffic as benign network communication
+
+
+#### Define technique and subtechnique, and give an example of each
+
+Technique in the MITRE ATT&CK framework refers to specific action or behavior that an attacker may use to carry out a tactic.
+
+For example, one tactic within the "Defense Evasion" is "File Deletion". This technique involves the attacker removing or destroying data on the victim system to hide their tracks and prevent discovery.
+
+Sub-technique s further refinement of a technique that provides more specific details on the attacker's behavior.
+
+For example, within the "File Deletion" technique, a sub-technique could be "File Deletion using SDelete". This sub-technique involves the attacker using the SDelete tool to securely delete files and hide their activities.
+
+
+#### Define procedure, and give an example of each
+
+A procedure is a set of steps that need to be followed to perform a specific task or achieve a particular outcome. Procedures are usually documented and followed in order to ensure consistent results and to avoid errors.
+
+A procedure in a security context could be a series of steps that must be followed to ensure the safe handling of sensitive data. This could include steps such as:
+
+* encrypting the data, 
+* transmitting it over a secure network, 
+* storing it in a secure location. 
+
+Other examples of procedures might include the steps involved in performing a software update, or the steps involved in responding to a security breach.
 
 
 
