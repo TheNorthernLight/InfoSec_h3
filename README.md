@@ -103,4 +103,17 @@ Other examples of procedures might include the steps involved in performing a so
 
 
 
+### Webgoat: A3 Sensitive data exposure
+#### Insecure Login: 2 Let's try
 
+To start the practise, I turned on the WebGoat: 
+
+       java -jar webgoat-server-8.0.0.M26.jar
+       
+Since, I already had a packet sniffer installed in my system by default, I decided to first upgraded it and then start: 
+
+       sudo apt install wireshark
+       
+       sudo wireshark
+       
+       
