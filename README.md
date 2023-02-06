@@ -35,7 +35,7 @@ The name of the attack with brief describtion:
 13. Exfiltration involves the techniques used by the attacker to steal the target's data.
 14. Impact encompasses the techniques and attempts to prevent access to and use of the data.
 
-
+![14 Tactics](1.JPG)
 
 The ATT&CK Matrix provides an overview of the various tactics and techniques involved in an attack.
 
